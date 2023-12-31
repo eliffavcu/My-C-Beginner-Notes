@@ -11,6 +11,8 @@ int main() {
     printf("%d", sizeof(elif_name));
     printf("%s", elif_name);
 
+    printf("Hello Elif and Emin");
+    
     
 
   return 0;  
